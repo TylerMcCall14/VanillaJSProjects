@@ -1,0 +1,77 @@
+.container-1, .container-3, .container-4{
+    border:1px solid black;
+    margin: 0 auto;
+    width: 75%;
+    text-align: center;
+}
+
+.flex-box-container-1, .flex-box-rps, .flex-blackjack-row-1, .flex-blackjack-row-2, .flex-blackjack-row-3{
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.flex-blackjack-row-2{
+    justify-content: center;
+}
+
+.flex-blackjack-row-1, .flex-blackjack-row-2{
+    background: url('https://thumbs.dreamstime.com/b/playing-poker-blackjack-cards-symbol-background-51688486.jpg') center;
+    color: #ffffff;
+}
+
+.flex-blackjack-row-1 div {
+    flex: 1;
+    border: 1px solid black;
+    padding: 10px;
+    height: 350px;
+    text-align: center;
+}
+
+.flex-blackjack-row-1 img {
+    width: 25%;
+    flex-wrap: wrap;
+}
+
+.flex-blackjack-row-2 button {
+    border: 1px solid black;   
+}
+
+table, th, td {
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.flex-box-container-1 div {
+    display: flex;
+    padding: 10px;
+    border: 1px solid black;
+    align-items: center;
+}
+
+.flex-box-container-2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+
+.container-2 {
+    border: 1px solid black;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.flex-box-container-2 img {
+    margin: 10px;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.7);
+}
+
+.flex-box-rps img:hover {
+    box-shadow: 0px 10px 50px rgba(53, 179, 218, 1);
+}
+
