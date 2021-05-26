@@ -1,0 +1,5114 @@
+{
+    "stores": [{
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "50193-270016",
+        "id": "1016334",
+        "name": "Albertsons - Denton #4152",
+        "phoneNumber": "9403832391",
+        "coordinates": {
+            "latitude": 33.228477,
+            "longitude": -97.162822
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "2321 W. University Dr.",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Denton",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "76201"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["2321 W. University Dr.", "Denton, TX 76201"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "albertsons-denton-4152-2321-w-university-dr-denton-tx-76201-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "16766-168744",
+        "id": "91128",
+        "name": "Rayzor Ranch",
+        "phoneNumber": "9403834157",
+        "coordinates": {
+            "latitude": 33.230331,
+            "longitude": -97.162154
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "2320 University Drive",
+            "streetAddressLine2": null,
+            "streetAddressLine3": "Rayzor Ranch",
+            "city": "Denton",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "762011650"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["2320 University Drive", "Denton, TX 76201"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "rayzor-ranch-2320-university-drive-rayzor-ranch-denton-tx-76201"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "24660-199284",
+        "id": "1010243",
+        "name": "University of North Texas/Denton-Un",
+        "phoneNumber": "9403698597",
+        "coordinates": {
+            "latitude": 33.210911,
+            "longitude": -97.147449
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "1155 Union Cir",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Denton",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "76203-501"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["1155 Union Cir", "Denton, TX 76203"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "7:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "7:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "7:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "7:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "9:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "12:00 PM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "7:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }],
+        "slug": "university-of-north-texas-denton-un-1155-union-cir-denton-tx-76203-501-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "72790-84341",
+        "id": "12922",
+        "name": "Kroger-Denton #493",
+        "phoneNumber": "940-566-6791",
+        "coordinates": {
+            "latitude": 33.231765,
+            "longitude": -97.137724
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "500 W University",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Denton",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "76201"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["500 W University", "Denton, TX 76201"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "kroger-denton-493-500-w-university-denton-tx-76201-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "9966-98955",
+        "id": "9438",
+        "name": "University Dr & Carroll Blvd",
+        "phoneNumber": "940-384-9371",
+        "coordinates": {
+            "latitude": 33.230439,
+            "longitude": -97.136108
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "401 W University Dr",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Denton",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "762011841"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["401 W University Dr", "Denton, TX 76201"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "7:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "university-dr-carroll-blvd-401-w-university-dr-denton-tx-762011841-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "26919-242407",
+        "id": "1014175",
+        "name": "TWU Blagg-Huey Library",
+        "phoneNumber": "9408983613",
+        "coordinates": {
+            "latitude": 33.227911,
+            "longitude": -97.129165
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "307 Administration Drive",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Denton",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "76201"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["307 Administration Drive", "Denton, TX 76201"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "10:00 AM to 3:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "10:00 AM to 3:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "10:00 AM to 3:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "10:00 AM to 3:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "10:00 AM to 3:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "10:00 AM to 3:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "10:00 AM to 3:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }],
+        "slug": "twu-blagg-huey-library-307-administration-drive-denton-tx-76201-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "11149-103894",
+        "id": "17950",
+        "name": "Loop 288 & I 35, Denton",
+        "phoneNumber": "940 382-0242",
+        "coordinates": {
+            "latitude": 33.188013,
+            "longitude": -97.106835
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "2300 S LOOP 288",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Denton",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "762054974"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["2300 S LOOP 288", "Denton, TX 76205"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "loop-288-i-35-denton-2300-s-loop-288-denton-tx-762054974-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "76718-98048",
+        "id": "10110",
+        "name": "Target Denton ST-2145",
+        "phoneNumber": "940-220-2122",
+        "coordinates": {
+            "latitude": 33.189598,
+            "longitude": -97.098866
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "1801 S Loop 288",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Denton",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "762054801"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["1801 S Loop 288", "Denton, TX 76205"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "target-denton-st-2145-1801-s-loop-288-denton-tx-762054801-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "72967-95582",
+        "id": "16327",
+        "name": "Kroger-Denton #586",
+        "phoneNumber": "940-566-6075",
+        "coordinates": {
+            "latitude": 33.194992,
+            "longitude": -97.095835
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "1592 N SR-288 Loop",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Denton",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "76208"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["1592 N SR-288 Loop", "Denton, TX 76208"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "kroger-denton-586-1592-n-sr-288-loop-denton-tx-76208-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "50367-274124",
+        "id": "1018203",
+        "name": "Hickory Creek & Teasley",
+        "phoneNumber": "9407838878",
+        "coordinates": {
+            "latitude": 33.147698,
+            "longitude": -97.10613
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "4910 Teasley Lane",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Denton",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "762103801"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["4910 Teasley Lane", "Denton, TX 76210"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "hickory-creek-teasley-4910-teasley-lane-denton-tx-762103801-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "70385-107530",
+        "id": "7769",
+        "name": "Kroger-Denton #570",
+        "phoneNumber": "940-380-4100",
+        "coordinates": {
+            "latitude": 33.145724,
+            "longitude": -97.102161
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "5021 Teasley Lane",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Denton",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "762103814"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["5021 Teasley Lane", "Denton, TX 76210"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "kroger-denton-570-5021-teasley-lane-denton-tx-762103814-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "29132-252020",
+        "id": "1014899",
+        "name": "407 & McMakin",
+        "phoneNumber": "2144708156",
+        "coordinates": {
+            "latitude": 33.076964,
+            "longitude": -97.130595
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "3012 FM 407",
+            "streetAddressLine2": "200",
+            "streetAddressLine3": null,
+            "city": "Bartonville",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "762269468"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["3012 FM 407", "200", "Bartonville, TX 76226"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "CS",
+            "name": "tbd - Coffee Scale"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "407-mc-makin-3012-fm-407-bartonville-tx-762269468-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "50474-269987",
+        "id": "1016937",
+        "name": "Albertsons - Corinth #4191",
+        "phoneNumber": "9403214540",
+        "coordinates": {
+            "latitude": 33.131377,
+            "longitude": -97.043354
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "4351 FM 2181",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Corinth",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "75065"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["4351 FM 2181", "Corinth, TX 75065"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "albertsons-corinth-4191-4351-fm-2181-corinth-tx-75065-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "25202-201748",
+        "id": "1011961",
+        "name": "Kroger Southwest Store #572",
+        "phoneNumber": "940-294-8251",
+        "coordinates": {
+            "latitude": 33.074925,
+            "longitude": -97.129916
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "3400 FM 407 E",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Bartonville",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "76226"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["3400 FM 407 E", "Bartonville, TX 76226"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "kroger-southwest-store-572-3400-fm-407-e-bartonville-tx-76226-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "6698-185024",
+        "id": "1010451",
+        "name": "Swisher Road & I-35",
+        "phoneNumber": "9404984880",
+        "coordinates": {
+            "latitude": 33.129589,
+            "longitude": -97.041081
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "4600 Swisher Road",
+            "streetAddressLine2": "Suite 100",
+            "streetAddressLine3": null,
+            "city": "Hickory Creek",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "750657526"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["4600 Swisher Road", "Suite 100", "Hickory Creek, TX 75065"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 4-7 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "swisher-road-i-35-4600-swisher-road-hickory-creek-tx-750657526-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "22063-204625",
+        "id": "1007044",
+        "name": "Cross Roads",
+        "phoneNumber": "9403659852",
+        "coordinates": {
+            "latitude": 33.226199,
+            "longitude": -96.986539
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "11450 US Highway 380",
+            "streetAddressLine2": "Suite 100",
+            "streetAddressLine3": null,
+            "city": "Cross Roads",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "762278321"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["11450 US Highway 380", "Suite 100", "Cross Roads, TX 76227"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "CS",
+            "name": "tbd - Coffee Scale"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "cross-roads-11450-us-highway-380-cross-roads-tx-762278321-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "72698-78188",
+        "id": "16258",
+        "name": "Target Flower Mound ST-1517",
+        "phoneNumber": "972-874-6700",
+        "coordinates": {
+            "latitude": 33.067519,
+            "longitude": -97.083172
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "5959 Long Prairie Rd",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Flower Mound",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "750282224"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["5959 Long Prairie Rd", "Flower Mound, TX 75028"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "target-flower-mound-st-1517-5959-long-prairie-rd-flower-mound-tx-750282224-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "16382-160644",
+        "id": "68842",
+        "name": "FM 2499 & Dixon",
+        "phoneNumber": "9726912359",
+        "coordinates": {
+            "latitude": 33.065824,
+            "longitude": -97.081251
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "5871 Long Prairie Road",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Flower Mound",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "750285649"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["5871 Long Prairie Road", "Flower Mound, TX 75028"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "fm-2499-dixon-5871-long-prairie-road-flower-mound-tx-750285649-u"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "79528-102986",
+        "id": "8452",
+        "name": "Tom Thumb - Flower Mound #3575",
+        "phoneNumber": "972-539-2366",
+        "coordinates": {
+            "latitude": 33.071861,
+            "longitude": -97.063759
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "2301 Justin Rd",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Flower Mound",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "750283777"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["2301 Justin Rd", "Flower Mound, TX 75028"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "tom-thumb-flower-mound-3575-2301-justin-rd-flower-mound-tx-750283777-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "6312-243756",
+        "id": "1015252",
+        "name": "407 & Morriss",
+        "phoneNumber": "9727242070",
+        "coordinates": {
+            "latitude": 33.071187,
+            "longitude": -97.058969
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "2031 Justin Rd",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Flower Mound",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "750283800"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["2031 Justin Rd", "Flower Mound, TX 75028"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "407-morriss-2031-justin-rd-flower-mound-tx-750283800-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "15196-149946",
+        "id": "92615",
+        "name": "Tom Thumb-Flower Mound #1854",
+        "phoneNumber": "972-691-2084",
+        "coordinates": {
+            "latitude": 33.039993,
+            "longitude": -97.09764
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "4301 Cross Timbers",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Flower Mound",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "75022"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["4301 Cross Timbers", "Flower Mound, TX 75022"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "tom-thumb-flower-mound-1854-4301-cross-timbers-flower-mound-tx-75022-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "49197-267445",
+        "id": "1021680",
+        "name": "Hwy 114 & I-35W",
+        "phoneNumber": "6828310363",
+        "coordinates": {
+            "latitude": 33.02573,
+            "longitude": -97.28062
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "3572 Hwy 114 Ste 504",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Fort Worth",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "761772305"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["3572 Hwy 114 Ste 504", "Fort Worth, TX 76177"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "hwy-114-i-35-w-3572-hwy-114-ste-504-fort-worth-tx-761772305-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "56536-289844",
+        "id": "1026265",
+        "name": "Market Street - Flower Mound #565",
+        "phoneNumber": "(972) 3554007",
+        "coordinates": {
+            "latitude": 33.037163,
+            "longitude": -97.068122
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "3800 Long Prarie Road",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Flower Mound",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "75028"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["3800 Long Prarie Road", "Flower Mound, TX 75028"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "market-street-flower-mound-565-3800-long-prarie-road-flower-mound-tx-75028-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "79219-98024",
+        "id": "9659",
+        "name": "Kroger-Flower Mound #456",
+        "phoneNumber": "972-355-0997",
+        "coordinates": {
+            "latitude": 33.034963,
+            "longitude": -97.071854
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "2709 Cross Timbers Rd",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Flower Mound",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "750282758"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["2709 Cross Timbers Rd", "Flower Mound, TX 75028"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "kroger-flower-mound-456-2709-cross-timbers-rd-flower-mound-tx-750282758-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "49676-270164",
+        "id": "1019319",
+        "name": "Hwy 377 & Hwy 114",
+        "phoneNumber": "6823514767",
+        "coordinates": {
+            "latitude": 33.008501,
+            "longitude": -97.224122
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "105 Country View Dr",
+            "streetAddressLine2": "400",
+            "streetAddressLine3": null,
+            "city": "Roanoke",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "762622057"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["105 Country View Dr", "400", "Roanoke, TX 76262"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "hwy-377-hwy-114-105-country-view-dr-roanoke-tx-762622057-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "6619-67341",
+        "id": "11297",
+        "name": "Cross Timbers & Garden Ridge",
+        "phoneNumber": "(972) 539-2484",
+        "coordinates": {
+            "latitude": 33.041928,
+            "longitude": -97.037635
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "701 Cross Timbers",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Flower Mound",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "750281365"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["701 Cross Timbers", "Flower Mound, TX 75028"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 4-7 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "cross-timbers-garden-ridge-701-cross-timbers-flower-mound-tx-750281365-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "79727-125810",
+        "id": "10472",
+        "name": "Tom Thumb-Flower Mound #3652",
+        "phoneNumber": "972-539-6828",
+        "coordinates": {
+            "latitude": 33.041326,
+            "longitude": -97.038521
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "745 Cross Timbers Rd",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Flower Mound",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "750281365"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["745 Cross Timbers Rd", "Flower Mound, TX 75028"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "tom-thumb-flower-mound-3652-745-cross-timbers-rd-flower-mound-tx-750281365-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "6552-63759",
+        "id": "16132",
+        "name": "Trophy Lake & Hwy. 114",
+        "phoneNumber": "6828310248",
+        "coordinates": {
+            "latitude": 32.99827,
+            "longitude": -97.205759
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "501 Trophy Lake Dr",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Trophy Club",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "762625222"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["501 Trophy Lake Dr", "Trophy Club, TX 76262"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:30 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:30 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:30 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:30 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "trophy-lake-hwy-114-501-trophy-lake-dr-trophy-club-tx-762625222-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "50835-256633",
+        "id": "1028622",
+        "name": "114 & Davis Blvd",
+        "phoneNumber": "8174038202",
+        "coordinates": {
+            "latitude": 32.988022,
+            "longitude": -97.181369
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "78 Andorra",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Westlake",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "76262"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["78 Andorra", "Westlake, TX 76262"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "114-davis-blvd-78-andorra-westlake-tx-76262-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "17859-180385",
+        "id": "1005315",
+        "name": "I-35 & Fox",
+        "phoneNumber": "9724362037",
+        "coordinates": {
+            "latitude": 33.03896,
+            "longitude": -97.003859
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "699 S Stemmons Fwy",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Lewisville",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "750674567"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["699 S Stemmons Fwy", "Lewisville, TX 75067"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "i-35-fox-699-s-stemmons-fwy-lewisville-tx-750674567-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "10979-102901",
+        "id": "10387",
+        "name": "FM 3040 & Gerault",
+        "phoneNumber": "972-539-6024",
+        "coordinates": {
+            "latitude": 33.010888,
+            "longitude": -97.046193
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "1181 Flower Mound Road #704",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Flower Mound",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "750283254"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["1181 Flower Mound Road #704", "Flower Mound, TX 75028"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "fm-3040-gerault-1181-flower-mound-road-704-flower-mound-tx-7502832"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "6296-242306",
+        "id": "1015077",
+        "name": "Lakeside Parkway & FM 2499",
+        "phoneNumber": "9727247428",
+        "coordinates": {
+            "latitude": 32.994537,
+            "longitude": -97.06552
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "901 Long Prairie Road",
+            "streetAddressLine2": "Suite 180",
+            "streetAddressLine3": null,
+            "city": "Flower Mound",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "750224260"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["901 Long Prairie Road", "Suite 180", "Flower Mound, TX 75022"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 4-7 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "CL",
+            "name": "Starbucks Reserve-Clover Brewed"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "CS",
+            "name": "tbd - Coffee Scale"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "lakeside-parkway-fm-2499-901-long-prairie-road-flower-mound-tx-750224260-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "15950-156107",
+        "id": "68458",
+        "name": "Kroger-Little Elm, TX #580",
+        "phoneNumber": "469-888-5518",
+        "coordinates": {
+            "latitude": 33.17003,
+            "longitude": -96.891211
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "2671 Little Elm Park",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Little Elm",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "75068"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["2671 Little Elm Park", "Little Elm, TX 75068"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "kroger-little-elm-tx-580-2671-little-elm-park-little-elm-tx-75068-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "22479-204627",
+        "id": "1006736",
+        "name": "Hwy 423 & 720",
+        "phoneNumber": "4693628549",
+        "coordinates": {
+            "latitude": 33.167477,
+            "longitude": -96.891142
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "2170 FM 423",
+            "streetAddressLine2": "100",
+            "streetAddressLine3": null,
+            "city": "Little Elm",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "750686676"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["2170 FM 423", "100", "Little Elm, TX 75068"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "CL",
+            "name": "Starbucks Reserve-Clover Brewed"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "CS",
+            "name": "tbd - Coffee Scale"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "hwy-423-720-2170-fm-423-little-elm-tx-750686676-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "79717-125807",
+        "id": "6575",
+        "name": "Tom Thumb - Lewisville #1785",
+        "phoneNumber": "214-488-3060",
+        "coordinates": {
+            "latitude": 33.006726,
+            "longitude": -97.017269
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "1075 W FM-3040",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Lewisville",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "75067"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["1075 W FM-3040", "Lewisville, TX 75067"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "tom-thumb-lewisville-1785-1075-w-fm-3040-lewisville-tx-75067-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "10981-101384",
+        "id": "10388",
+        "name": "FM 423 & Eldorado Pkwy",
+        "phoneNumber": "972-668-5233",
+        "coordinates": {
+            "latitude": 33.177825,
+            "longitude": -96.884567
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "2831 Eldorado Parkway",
+            "streetAddressLine2": "101",
+            "streetAddressLine3": null,
+            "city": "Little Elm",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "750686003"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["2831 Eldorado Parkway", "101", "Little Elm, TX 75068"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 4-7 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "fm-423-eldorado-pkwy-2831-eldorado-parkway-little-elm-tx-750686003-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "58387-292554",
+        "id": "1029099",
+        "name": "Hwy 380 & FM 423",
+        "phoneNumber": "4694377636",
+        "coordinates": {
+            "latitude": 33.218539,
+            "longitude": -96.877622
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "1425 US Highway 380",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Frisco",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "75033"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["1425 US Highway 380", "Frisco, TX 75033"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "hwy-380-fm-423-1425-us-highway-380-frisco-tx-75033-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "52848-265905",
+        "id": "1019160",
+        "name": "Kroger Prosper #589",
+        "phoneNumber": "972-346-5243",
+        "coordinates": {
+            "latitude": 33.220093,
+            "longitude": -96.877491
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "4650 W University Dr",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Prosper",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "75078"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["4650 W University Dr", "Prosper, TX 75078"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "kroger-prosper-589-4650-w-university-dr-prosper-tx-75078-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "15102-149949",
+        "id": "1005706",
+        "name": "Tom Thumb-Frisco #2963",
+        "phoneNumber": "214-494-6213",
+        "coordinates": {
+            "latitude": 33.1255,
+            "longitude": -96.888457
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "5550 FM 423",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Frisco",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "75034"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["5550 FM 423", "Frisco, TX 75034"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "tom-thumb-frisco-2963-5550-fm-423-frisco-tx-75034-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "17579-162925",
+        "id": "89570",
+        "name": "Kroger-Ft. Worth, TX #562",
+        "phoneNumber": "8175623900",
+        "coordinates": {
+            "latitude": 32.956266,
+            "longitude": -97.280153
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "12600 N. Beach st.",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Fort Worth",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "76244"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["12600 N. Beach st.", "Fort Worth, TX 76244"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "kroger-ft-worth-tx-562-12600-n-beach-st-fort-worth-tx-76244-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "72663-64980",
+        "id": "9386",
+        "name": "Target Lewisville ST-1395",
+        "phoneNumber": "972-459-2605",
+        "coordinates": {
+            "latitude": 33.01214,
+            "longitude": -96.970986
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "725 Hebron Pkwy",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Lewisville",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "750575001"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["725 Hebron Pkwy", "Lewisville, TX 75057"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "target-lewisville-st-1395-725-hebron-pkwy-lewisville-tx-750575001-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "9312-95881",
+        "id": "12684",
+        "name": "3525 Grapevine Mills Pkwy",
+        "phoneNumber": "972-874-1394",
+        "coordinates": {
+            "latitude": 32.973623,
+            "longitude": -97.037556
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "3525 Grapevine Mills Pkwy",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Grapevine",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "760512045"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["3525 Grapevine Mills Pkwy", "Grapevine, TX 76051"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "3525-grapevine-mills-pkwy-3525-grapevine-mills-pkwy-grapevine-tx-760512045-u"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "79687-121246",
+        "id": "6850",
+        "name": "Tom Thumb - Southlake #2580",
+        "phoneNumber": "817 4165464",
+        "coordinates": {
+            "latitude": 32.943083,
+            "longitude": -97.152029
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "100 West South Lake Blvd",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Southlake",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "760926100"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["100 West South Lake Blvd", "Southlake, TX 76092"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "tom-thumb-southlake-2580-100-west-south-lake-blvd-southlake-tx-760926100-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "6699-57119",
+        "id": "16262",
+        "name": "Hebron & I-35E",
+        "phoneNumber": "214-488-9444",
+        "coordinates": {
+            "latitude": 33.010045,
+            "longitude": -96.969291
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "721 Hebron Pkwy, Suite #101",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Lewisville",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "750575131"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["721 Hebron Pkwy, Suite #101", "Lewisville, TX 75057"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "hebron-i-35-e-721-hebron-pkwy-suite-101-lewisville-tx-750575131-"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "29532-210104",
+        "id": "1014905",
+        "name": "Grapevine Mills - Entrance 5",
+        "phoneNumber": "6822529621",
+        "coordinates": {
+            "latitude": 32.96687,
+            "longitude": -97.042818
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "3000 Grapevine Mills Parkway",
+            "streetAddressLine2": "KI15",
+            "streetAddressLine3": null,
+            "city": "Grapevine",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "760512008"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["3000 Grapevine Mills Parkway", "KI15", "Grapevine, TX 76051"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "10:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "10:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "10:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "9:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "9:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "10:00 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "10:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "grapevine-mills-entrance-5-3000-grapevine-mills-parkway-grapevine-tx-76051200"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "29133-252284",
+        "id": "1017213",
+        "name": "Davis & 1709",
+        "phoneNumber": "6829786191",
+        "coordinates": {
+            "latitude": 32.93807,
+            "longitude": -97.184244
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "2155 West Southlake",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Southlake",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "760926712"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["2155 West Southlake", "Southlake, TX 76092"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "davis-1709-2155-west-southlake-southlake-tx-760926712-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "6313-1559",
+        "id": "15914",
+        "name": "Southlake Town Square",
+        "phoneNumber": "8173299201",
+        "coordinates": {
+            "latitude": 32.942393,
+            "longitude": -97.130341
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "1403 Main Street",
+            "streetAddressLine2": null,
+            "streetAddressLine3": "Southlake Town Square",
+            "city": "Southlake",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "760927628"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["1403 Main Street", "Southlake, TX 76092"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "southlake-town-square-1403-main-street-southlake-town-square-southlake-t"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "8816-93415",
+        "id": "12496",
+        "name": "Teel & Main St.",
+        "phoneNumber": "972-712-3871",
+        "coordinates": {
+            "latitude": 33.152628,
+            "longitude": -96.861997
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "3193 Main Street",
+            "streetAddressLine2": "Suite #105",
+            "streetAddressLine3": null,
+            "city": "Frisco",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "750344408"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["3193 Main Street", "Suite #105", "Frisco, TX 75034"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "teel-main-st-3193-main-street-frisco-tx-750344408-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "56534-289842",
+        "id": "1025350",
+        "name": "Market Street - Coppell #564",
+        "phoneNumber": "(469) 3226800",
+        "coordinates": {
+            "latitude": 32.98851,
+            "longitude": -96.991394
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "700 N Denton Tap Road",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Coppell",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "75019"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["700 N Denton Tap Road", "Coppell, TX 75019"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "market-street-coppell-564-700-n-denton-tap-road-coppell-tx-75019-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "6347-268004",
+        "id": "1018479",
+        "name": "1709 & Rufe Snow Drive",
+        "phoneNumber": "8174821900",
+        "coordinates": {
+            "latitude": 32.933896,
+            "longitude": -97.230833
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "962 Keller Parkway",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Keller",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "762483608"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["962 Keller Parkway", "Keller, TX 76248"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "1709-rufe-snow-drive-962-keller-parkway-keller-tx-762483608-us"
+    }],
+    "coordinates": {
+        "lat": 33.2195187,
+        "lng": -97.1898025
+    },
+    "includesRecommendedLocations": false
+}
